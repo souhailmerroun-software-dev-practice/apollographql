@@ -1,2 +1,2 @@
-# apollographql
-https://www.apollographql.com/docs/
+# Rick & Morty Search
+
